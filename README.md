@@ -28,7 +28,7 @@ npm install lite-server
 
 ## 部署
 
-我这边是使用Geth作为节点, 大家也可以使用Ganache, 大家要注意网络配置和账号再部署和页面中保持一致.
+我这边是使用Geth作为节点, 也可以使用Ganache, 大家要注意网络配置和账号再部署和页面中保持一致.
 
 部署的时候进行解锁
 personal.unlockAccount(eth.accounts[0],"");
